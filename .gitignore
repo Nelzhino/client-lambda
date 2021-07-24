@@ -23,6 +23,7 @@
 hs_err_pid*
 
 #file
+target
 .project
 .settings
 .classpath
